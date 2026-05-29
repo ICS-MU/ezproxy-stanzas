@@ -1,0 +1,13 @@
+Title Newton One
+URL https://app.newtonmedia.eu/
+RemoteTimeout 180
+HTTPHeader -request -process branchid
+HTTPheader -response -process branchid
+HJ newtonone.newtonmedia.eu
+HJ app.newtonmedia.eu
+HJ sysel.newtonmedia.eu
+HJ charon.newtonmedia.eu
+DJ newtonone.newtonmedia.eu
+DJ app.newtonmedia.eu
+DJ sysel.newtonmedia.eu
+DJ charon.newtonmedia.eu
