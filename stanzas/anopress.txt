@@ -1,0 +1,11 @@
+# Please configure this stanza by inserting you institution's code instead of
+# the INST string. E.g. URL https://muni.anopress.cz for Masaryk University.
+
+Title Anopress
+URL https://INST.anopress.cz
+URL https://muj.anopress.cz
+URL https://monitoring.anopress.cz
+Host muj.anopress.cz
+Host www.anopress.cz
+Host anopress.cz
+Host monitoring.anopress.cz
