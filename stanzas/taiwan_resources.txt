@@ -1,0 +1,22 @@
+Title Taiwan resources
+URL https://rbook.ncl.edu.tw/NCLSearch/Search/Index/5
+URL http://da.lib.ntnu.edu.tw/rarebook/
+URL https://rbook.ncl.edu.tw/NCLSearch/Search/Index/1
+URL http://stfb.ntl.edu.tw/cgi-bin/gs32/gsweb.cgi
+URL https://ndltd.ncl.edu.tw
+URL https://tpl.ncl.edu.tw/NclService/
+URL https://rbook.ncl.edu.tw/NCLSearch/Search/Index/2
+URL http://stfj.ntl.edu.tw/
+URL http://tbmc.ncl.edu.tw/login_guocui.htm
+Host ncl.edu.tw
+HJ ncl.edu.tw
+Host ntnu.edu.tw
+HJ ntnu.edu.tw
+Host ntl.edu.tw
+HJ ntl.edu.tw
+Domain ncl.edu.tw
+DJ ncl.edu.tw
+Domain ntnu.edu.tw
+DJ ntnu.edu.tw
+Domain ntl.edu.tw
+DJ ntl.edu.tw
