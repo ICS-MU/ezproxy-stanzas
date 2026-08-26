@@ -1,0 +1,9 @@
+# Please configure this stanza by inserting you institution's code instead of
+# the INST string. E.g. HJ revise-muni-cz.writefull.ai for Masaryk University.
+
+Title WriteFull
+URL https://revise-INST-cz.writefull.ai/
+HJ revise-INST-cz.writefull.ai
+HJ cite-INST-cz.writefull.ai
+DJ revise-INST-cz.writefull.ai
+DJ cite-INST-cz.writefull.ai
